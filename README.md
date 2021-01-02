@@ -1,2 +1,2 @@
 # cornflakes
-Sharing/Load Balancer for cornjs
+Sharding/Load Balancer for cornjs
